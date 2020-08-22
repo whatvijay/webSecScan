@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Model
+Bundle-SymbolicName: Model
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: model.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: org.osgi.framework;version="1.3.0"
+Automatic-Module-Name: Model
+Service-Component: OSGI-INF/model.xml
+Require-Bundle: Api2;bundle-version="1.0.0",
+ Requests;bundle-version="1.0.0",
+ Html;bundle-version="1.0.0"

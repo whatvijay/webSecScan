@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Analysis
+Bundle-SymbolicName: Analysis
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: analysis.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: org.osgi.framework;version="1.3.0"
+Automatic-Module-Name: Analysis
+Require-Bundle: Api2;bundle-version="1.0.0",
+ Html;bundle-version="1.0.0"
+Service-Component: OSGI-INF/analysis.xml

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Starter
+Bundle-SymbolicName: Starter
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: starter.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: com.subgraph.vega.api.model,
+ com.subgraph.vega.api.scanner,
+ com.subgraph.vega.impl.scanner,
+ org.osgi.framework;version="1.3.0"
+Automatic-Module-Name: Starter
+Require-Bundle: Scanner;bundle-version="1.0.0"

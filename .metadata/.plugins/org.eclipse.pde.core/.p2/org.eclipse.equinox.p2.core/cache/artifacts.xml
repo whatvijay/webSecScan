@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='download cache' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='2'>
+    <property name='p2.system' value='true'/>
+    <property name='p2.timestamp' value='1546788059146'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='16'>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.gtk.aix.ppc' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='238220'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.gtk.linux.s390x' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='28912'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp_root' version='3.8.2.v20130118-180157-96BuGOZFxwOAeG8Ofmqicz0tPK'>
+      <properties size='1'>
+        <property name='download.size' value='37952'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.gtk.linux.x86' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='350620'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.cocoa.macosx.x86_64' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='274649'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.gtk.solaris.sparc' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='24510'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.cocoa.macosx.x86' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='280731'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.win32.win32.x86_64' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='123496'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.gtk.linux.s390' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='28698'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.gtk.linux.ppc' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='190065'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.win32.win32.x86' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='119975'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.gtk.linux.ppc64' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='60926'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.gtk.linux.x86_64' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='369051'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.gtk.hpux.ia64_32' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='14171'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.gtk.aix.ppc64' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='242155'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp.configuration_root.gtk.solaris.x86' version='1.0.0.M20130131-0800'>
+      <properties size='1'>
+        <property name='download.size' value='23133'/>
+      </properties>
+    </artifact>
+  </artifacts>
+</repository>

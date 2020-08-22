@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Requests
+Bundle-SymbolicName: Requests
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: requests.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: org.osgi.framework;version="1.3.0"
+Automatic-Module-Name: Requests
+Export-Package: com.subgraph.vega.http.requests.builder,
+ com.subgraph.vega.http.requests.custom
+Require-Bundle: Api2;bundle-version="1.0.0",
+ Html;bundle-version="1.0.0"

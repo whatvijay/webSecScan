@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component id="Api2" modificationStamp="48191" version="1.2">
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.http.requests"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.model.conditions.match"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.model.web"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.annotations"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.analysis"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.util"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.html"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.scanner.modules"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.model.web.forms"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.model"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.crawler"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.model.alerts"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.model.requests"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.scanner"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.events"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.model.scope"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.http.proxy"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.model.conditions"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.console"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.model.identity"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.vuge"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.model.macros"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.paths"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.model.variables"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.xml"/>
+    </package>
+    <package visibility="1">
+        <fragment handle="=Api2/src&lt;com.subgraph.vega.api.model.tags"/>
+    </package>
+</component>

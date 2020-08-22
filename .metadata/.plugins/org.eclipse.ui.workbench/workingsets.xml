@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1546621717115_0" label="Java Main Sources" name="main">
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.analysis\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.api\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.application\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.crawler\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.export\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.html\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.http.proxy\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.http.requests\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.model\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.scanner.modules\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.scanner\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.sslprobe\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.ui.console\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.ui.hexeditor\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.ui.http\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.ui.httpeditor\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.ui.identity\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.ui.macros\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.ui.scanner\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.ui.tags\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.ui.util\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vega-Java2/platform\/com.subgraph.vega.ui.web\/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1546621717152_1" label="Java Test Sources" name="test"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1546621732776_2" label="Window Working Set" name="Aggregate for window 1546621732775"/>
+</workingSetManager>
